@@ -1,1 +1,2 @@
-# The public github folder for the entire organisation!
+# Github Public
+The public github folder for the entire organisatio
